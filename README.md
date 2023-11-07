@@ -93,29 +93,27 @@ Figure 3: Monthly appointment trends across all ICBs, January 2020 – June 2022
 •	Over 90% of appointments attended, and most booked on the same day.
 
 Figure 4: Appointments by status. 
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/33abd608-36cd-4726-ba7f-b078e4421f03)
-
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/a6d934ca-29b4-4e8f-a71d-d4c71c1b9d19)
 
 Figure 5: Appointments by time between booking. 
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/dbe39c96-925f-47d4-b7a1-6d7cb0089b0b)
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/8208c5ce-f4d8-47eb-98c7-611174c353ba)
 
 •	Most appointments between 1-10 minutes, and face-to-face and telephone most common.
 
 Figure 6: Appointments by duration.
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/394e0f18-2d26-4834-a7e7-bba9017313d0)
-
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/add83301-510e-432f-ae10-761903009744)
 
 Figure 7: Appointments by mode.
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/61493541-55c0-4aad-b344-a5a6caff3940)
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/4f0632ba-9b75-479a-8255-1344fa82d640)
+
 
 •	Most appointments conducted in General Practice, and a similar proportion conducted by GPs and Other Practice staff.
 
 Figure 8: Appointments by service setting.
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/79f55c04-e860-4f38-9fe8-def11edee160)
-
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/b541c5e5-1143-41b5-b34b-362beb0801ae)
 
 Figure 9: Appointments by HCP type.
-![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/897e1a84-775e-4b64-8ab6-9c20fe8c5a0f)
+![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/cba441e5-3c3b-4716-970f-ef4d64ac61d9)
 
 
 **Insights from main analysis:**
