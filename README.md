@@ -2,6 +2,7 @@
 
 This was the second assignment I completed as part of the LSE Data Analytics Career Accelerator course, for which I achieved a mark of 88% (distinction). I used Python for this project. 
 
+
 **1.	Background**
    
 The Primary Care team for the Northwest London ICB, NHS NW London, commissioned this project (fictitious) to better understand potential reasons for missed GP appointments, which lead to significant, potentially avoidable, costs for the NHS. 
@@ -94,6 +95,7 @@ Figure 3: Monthly appointment trends across all ICBs, January 2020 – June 2022
 Figure 4: Appointments by status. 
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/33abd608-36cd-4726-ba7f-b078e4421f03)
 
+
 Figure 5: Appointments by time between booking. 
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/dbe39c96-925f-47d4-b7a1-6d7cb0089b0b)
 
@@ -102,6 +104,7 @@ Figure 5: Appointments by time between booking.
 Figure 6: Appointments by duration.
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/394e0f18-2d26-4834-a7e7-bba9017313d0)
 
+
 Figure 7: Appointments by mode.
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/61493541-55c0-4aad-b344-a5a6caff3940)
 
@@ -109,6 +112,7 @@ Figure 7: Appointments by mode.
 
 Figure 8: Appointments by service setting.
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/79f55c04-e860-4f38-9fe8-def11edee160)
+
 
 Figure 9: Appointments by HCP type.
 ![image](https://github.com/kittyg80/NHS-Data-Analysis/assets/116217853/897e1a84-775e-4b64-8ab6-9c20fe8c5a0f)
